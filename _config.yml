@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Pengxiang Liu"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at City University of Hong Kong"
+  bio              : "Postdoctoral Researcher at City University of Hong Kong"
   location         : "Hong Kong, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "0000-0001-8910-6538"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
