@@ -14,13 +14,6 @@ Previously, I received the B.S. degree from [Zhengzhou University](https://www.z
 
 My research focuses on **machine learning (ML)** and **operation research (OR)** with applications in modeling, design and optimization of urban morphology and multi-energy systems.
 
-Selected Publications
-======
-
-1. **P. Liu**, Z. Wu, W. Gu, Y. Lu, Y. Ye and G. Strbac "Spatial Branching for Conic Non-Convexities in Optimal Electricity-Gas Flow," in IEEE Transactions on Power Systems, vol. 38, no. 1, pp. 972-975, Jan. 2023.
-
-2. **P. Liu**, Z. Wu, W. Gu and Y. Lu, "An Improved Spatial Branch-and-Bound Algorithm for Non-Convex Optimal Electricity-Gas Flow," in IEEE Transactions on Power Systems, vol. 37, no. 2, pp. 1326-1339, Mar. 2022.
-
 News
 ======
 - 02-Jan-2024: I join the City University of Hong Kong as a postdoctoral researcher.
